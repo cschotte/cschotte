@@ -10,27 +10,6 @@ What has remained constant throughout my career is a simple belief:
 
 > Great software is not measured by how quickly it is built. It is measured by how well it can be understood, operated, and evolved over time.
 
-## What This Blog Is About
-
-This blog is where I share lessons learned from more than two decades of building software.
-
-You'll find articles about:
-
-- Software architecture
-- Engineering leadership
-- AI and software development
-- Cloud-native platforms
-- Product strategy
-- Microsoft technologies
-- Developer productivity
-- Real-world engineering challenges
-
-Most articles are based on practical experience rather than theory.
-
-I am particularly interested in the intersection of architecture, AI, and long-term maintainability. As software teams increasingly adopt AI-assisted development, I believe understanding systems is becoming more valuable than simply producing code.
-
-That theme appears frequently throughout my writing.
-
 ## My Background
 
 My career spans software engineering, consulting, product management, developer relations, cloud architecture, and platform strategy.
